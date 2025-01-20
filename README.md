@@ -9,7 +9,7 @@ The ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&log
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 
 # Github Statistic
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Binzigames&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-s)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binzigames&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-s)
 
 # Find me in!
 ![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)<br/>
@@ -19,5 +19,5 @@ https://bsky.app/profile/porkodev.bsky.social<br/>
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)<br/>
 https://www.youtube.com/@codeHud<br/>
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)<br/>
-https://porko-dev.itch.io/
+https://porko-dev.itch.io/<br/>
  
