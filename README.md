@@ -20,4 +20,6 @@ https://bsky.app/profile/porkodev.bsky.social<br/>
 https://www.youtube.com/@codeHud<br/>
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)<br/>
 https://porko-dev.itch.io/<br/>
+# The game i am working!
+<iframe frameborder="0" src="https://itch.io/embed/3212723?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://itdeveloper.itch.io/power-of-magnets">Power Of Magnets by ITDeveloper, porko, Timong</a></iframe>
  
