@@ -17,6 +17,6 @@ https://bsky.app/profile/porkodev.bsky.social<br/>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<br/>
 @porko_games<br/>
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)<br/>
-https://www.youtube.com/@codeHud<br/>
+https://www.youtube.com/@porko_dev<br/>
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)<br/>
 https://porko-dev.itch.io/<br/>
