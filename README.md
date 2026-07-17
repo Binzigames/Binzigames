@@ -8,12 +8,7 @@ The ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&log
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 
-# Github Statistic
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binzigames&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-s)
-
 # Find me in!
-![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)<br/>
-https://bsky.app/profile/porkodev.bsky.social<br/>
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)<br/>
 @porko_games<br/>
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)<br/>
